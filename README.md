@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Code by Fsociety
+#Code by FsocietyAnonymous 
 import argparse
 import random
 import socket
