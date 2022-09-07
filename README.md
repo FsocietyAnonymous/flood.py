@@ -1,10 +1,3 @@
-# flood.py
-Installa flood.py script per attacco ddos
-
-
-
-
-
 #!/usr/bin/env python3
 #Code by LeeOn123
 import argparse
